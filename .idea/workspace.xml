@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="709bfef2-74b9-42f7-9c22-d7a3d20d3c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scrape_bringo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/screenshot2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3JBh1mMB7SlG80a06uSaX0auHkA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,6 +40,7 @@
     "Python.scrape_bringo.executor": "Run",
     "Python.scrape_vat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,6 +50,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexu\Desktop\vat_discovery\screenshots" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1789140156896</updated>
       <workItem from="1789140158184" duration="5514000" />
+      <workItem from="1789372957671" duration="969000" />
     </task>
     <servers />
   </component>
