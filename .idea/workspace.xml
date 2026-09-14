@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="709bfef2-74b9-42f7-9c22-d7a3d20d3c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/screenshot1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/screenshot2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRITEUP.md" beforeDir="false" afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1789140156896</updated>
       <workItem from="1789140158184" duration="5514000" />
-      <workItem from="1789372957671" duration="969000" />
+      <workItem from="1789372957671" duration="1867000" />
     </task>
     <servers />
   </component>
