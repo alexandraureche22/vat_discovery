@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="709bfef2-74b9-42f7-9c22-d7a3d20d3c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/screenshot4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WRITEUP.md" beforeDir="false" afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
-    </list>
+    <list default="true" id="709bfef2-74b9-42f7-9c22-d7a3d20d3c32" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/alexu/Desktop/tech-scraper",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +69,7 @@
       <updated>1789140156896</updated>
       <workItem from="1789140158184" duration="5514000" />
       <workItem from="1789372957671" duration="2498000" />
+      <workItem from="1789570779985" duration="125000" />
     </task>
     <servers />
   </component>
